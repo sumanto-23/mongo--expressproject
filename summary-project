@@ -1,0 +1,21 @@
+ MY PROJECT:-setting up mongodb server with docker
+ 
+ 
+ 
+ by this project you can see how to use docker compose 
+ and to create a mongodb  container and access it using mongo express ,
+ 
+ 
+ 
+ 
+ important:
+ 1. as a docker compose you have to install docker on your system
+ 2.install docker compose ,configure it.
+ set up mongodb server using docker compose,pull  mongo and mongo-express
+ set up mongodb database password
+ puting mongodb container name.
+ and next monho express passord
+ 
+use docker-compose up 
+
+ 
